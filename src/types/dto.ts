@@ -1,0 +1,1 @@
+export type LoginUserDto = { email: string }
